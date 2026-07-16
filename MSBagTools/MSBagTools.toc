@@ -1,0 +1,12 @@
+## Interface: 11200
+## Title: |cff33ccffMS Bag Tools|r
+## Notes: Unified inventory and bank sorting, junk selling, stack consolidation, and persistent locked squares for the World of Warcraft 1.12.1 client.
+## Author: MoobStack
+## Version: 1.1.3
+## SavedVariables: MSBagToolsDB
+## SavedVariablesPerCharacter: MSBagToolsCharDB
+## OptionalDeps: pfUI, OctoBagTools
+
+MSBagTools_Bootstrap.lua
+MSBagTools_Core.lua
+MSBagTools_UI.lua

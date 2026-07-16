@@ -1,0 +1,19 @@
+MS Bag Tools 1.1.3 migration update
+===================================
+
+1. Completely exit World of Warcraft.
+2. Extract this update archive directly into Interface\AddOns.
+3. Replace existing files when prompted.
+4. Confirm these sibling folders exist:
+
+   Interface\AddOns\MSBagTools\
+   Interface\AddOns\OctoBagTools\
+
+5. Enable MS Bag Tools and MS Bag Tools Legacy Migration.
+6. Log into every character that previously used locked squares.
+7. Enter /msbag status and verify the Saved data migration line.
+8. Exit the client normally so the new saved variables are written.
+
+After every character has migrated and the new settings are verified, the
+legacy OctoBagTools folder may be disabled or deleted. The old saved-variable
+files may also be deleted after making a backup.
