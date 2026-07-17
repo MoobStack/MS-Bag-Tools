@@ -1,6 +1,6 @@
 # MS Bag Tools
 
-**MS Bag Tools** is a MoobStack addon designed as a functional extension to **pfUI's unified inventory and bank interfaces**. It adds organized sorting, efficient partial-stack consolidation, manual grey-item selling, configurable container fill orders and row widths, and persistent per-character locked squares.
+**MS Bag Tools** is an addon designed as a functional extension to **pfUI's unified inventory and bank interfaces**. It adds organized sorting, efficient partial-stack consolidation, manual grey-item selling, configurable container fill orders and row widths, and persistent per-character locked squares.
 
 - **Version:** 1.1.3
 - **Publisher:** MoobStack
